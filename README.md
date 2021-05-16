@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @calen-mcnickles
-- 👀 I’m interested in learning everything I can about programming. 
+- 👀 In April 2021 I decided to leave my job as a Big 4 accountant in order to concentrate all my time into learning programming.
+-  I am currently obessed with learning python and how I can apply what I have learned into real world projects. 
 - 🌱 I’m currently learning HTML, CSS, JS & Python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - https://www.linkedin.com/in/calen-mcnickles/, https://twitter.com/plopunter
 
 <!---
 calen-mcnickles/calen-mcnickles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
